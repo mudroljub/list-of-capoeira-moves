@@ -4,6 +4,7 @@
 - dodati ngolo slike (N’golo, drawing by Neves e Sousa)
 - dodati crno bele fotografije sa bahije?
 - nestor uputstva
+- odvojiti Beija-flor među akrobacije
 
 slobodne fotke:
 - folha seca https://www.flickr.com/photos/un_photo/4866138077
