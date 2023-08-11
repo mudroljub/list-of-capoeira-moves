@@ -1,8 +1,9 @@
 # Learn capoeira
 
 ## TODO
-- ngolo slike neves e sousa
-- crno bele fotografije sa bahije?
+- dodati ngolo slike neves e sousa
+- dodati crno bele fotografije sa bahije?
+- nestor uputstva
 
 ## Sources
 
