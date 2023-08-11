@@ -1,0 +1,30 @@
+body {
+  padding: 20px;
+  font-size: 1.2em;
+}
+
+h1, h2, h3 {
+  color: #382B26;
+}
+
+h1 i, h2 i, h3 i {
+  color: brown;
+  font-size: smaller;
+  margin-left: 2px;
+  vertical-align: top;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+}
+
+.gallery img {
+  height: 300px;
+}

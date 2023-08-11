@@ -1,0 +1,30 @@
+# Learn capoeira
+
+## TODO
+- ngolo slike neves e sousa
+- crno bele fotografije sa bahije?
+- favicon
+- titlove na iframe stranice?
+- iframe width="400" height="225" (ratio 0.5625)
+
+- obrisati neke strane koje nemaju drugog sadržaja osim videa (joelhada, other takedowns...)
+- Au tezura https://youtu.be/CgddSHKpyw0
+- https://youtu.be/iuWfMtSZMHk
+- chapa (pisao) pulada https://youtu.be/p15vJsg4Frc
+- obaranje iz negative https://youtu.be/xQ_LClTzrFw
+- obaranje rukama za noge https://youtu.be/0_BryDjZuqQ
+- rasteira https://youtu.be/lqyUFfkcCJY
+- Stealth kicks from ginga https://youtu.be/GQYIhD47EIc
+- https://youtu.be/gHS2KFOc48w
+- Vôo Do Morcego https://www.lalaue.com/moves/voo-do-morcego/
+
+- Martelo bicicleta https://youtu.be/BaDZX1hxfK0
+- Double Roundhouse Kick | Taekwondo Training https://youtu.be/e9qfasu0DaA
+
+## Sources
+
+Modern capoeira paintings by Alexandre Guillaume from [https://et-si.net/](www.alex-illustrateur.net), licenced under CC-BY-NC-ND.
+
+Old capoeira paintings by Carybé.
+
+Movement animations by http://www.unknowncapoeira.com. I recommend their books for more capoeira movements.
