@@ -4,9 +4,6 @@
 - ngolo slike neves e sousa
 - crno bele fotografije sa bahije?
 
-- obrisati neke strane koje nemaju drugog sadržaja osim videa (joelhada, other takedowns...)
-- Au tezura https://youtu.be/CgddSHKpyw0
-- https://youtu.be/iuWfMtSZMHk
 - chapa (pisao) pulada https://youtu.be/p15vJsg4Frc
 - obaranje iz negative https://youtu.be/xQ_LClTzrFw
 - obaranje rukama za noge https://youtu.be/0_BryDjZuqQ
