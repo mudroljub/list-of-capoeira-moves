@@ -3,9 +3,6 @@
 ## TODO
 - ngolo slike neves e sousa
 - crno bele fotografije sa bahije?
-- favicon
-- titlove na iframe stranice?
-- iframe width="400" height="225" (ratio 0.5625)
 
 - obrisati neke strane koje nemaju drugog sadržaja osim videa (joelhada, other takedowns...)
 - Au tezura https://youtu.be/CgddSHKpyw0
