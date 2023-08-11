@@ -2,6 +2,7 @@
 
 ## TODO
 - dodati ngolo slike (N’golo, drawing by Neves e Sousa)
+- srediti boje carybi
 - dodati crno bele fotografije sa bahije?
 - nestor uputstva
 - odvojiti Beija-flor među akrobacije
