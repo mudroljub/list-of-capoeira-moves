@@ -4,6 +4,7 @@
 - nestor uputstva
 - dodati ngolo slike (N’golo, drawing by Neves e Sousa)
   - isprobati ngolo pokrete i skontati ih
+- naći nešto od paštinje na engleskom
 
 slobodne fotke:
 - folha seca https://www.flickr.com/photos/un_photo/4866138077
