@@ -2,6 +2,7 @@
 
 ## TODO
 - dodati L and Capoeira, by Myrrha-Silvenia
+- dodati art
 - dodati ngolo slike (N’golo, drawing by Neves e Sousa)
   - isprobati ngolo pokrete i skontati ih
 - nestor uputstva
