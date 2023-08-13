@@ -10,6 +10,7 @@
 
 - loader za učitavanje iframe-a
 - dodati loading="lazy" na iframe
+- skripta da napravi naslove stranica?
 
 ## Sources
 
