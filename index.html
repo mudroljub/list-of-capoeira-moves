@@ -215,11 +215,10 @@
     }))
 
     window.addEventListener("load", () => {
-      const name = window.location.hash.substring(1)
-      if (!name) return
+      const pageName = window.location.hash.substring(1) || 'ginga.html'
 
-      document.getElementById("frame").src = name
-      const link = document.querySelector(`a[href='${name}']`)
+      document.getElementById("frame").src = pageName
+      const link = document.querySelector(`a[href='${pageName}']`)
       link.scrollIntoView({ block: "center" })
       link.classList.add('active')
     })
