@@ -5,6 +5,7 @@
 - dodati title za gif animacije
 - dodati ngolo slike (N’golo, drawing by Neves e Sousa)
   - isprobati ngolo pokrete i skontati ih
+- loader za učitavanje iframe-a
 
 slobodne fotke:
 - folha seca https://www.flickr.com/photos/un_photo/4866138077
