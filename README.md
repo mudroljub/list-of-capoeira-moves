@@ -7,8 +7,10 @@
 - dodati title za gif animacije
 - dodati ngolo slike (N’golo, drawing by Neves e Sousa)
   - isprobati ngolo pokrete i skontati ih
-- loader za učitavanje iframe-a
 - neidentifikovan bočni skok-šut (martelo de chao, meia lua pulada?) images/alex/encre_0154.jpg
+
+- loader za učitavanje iframe-a
+  - da ginga bude default page
 
 slobodne fotke:
 - folha seca https://www.flickr.com/photos/un_photo/4866138077

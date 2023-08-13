@@ -28,3 +28,7 @@ img {
 .gallery img {
   height: 300px;
 }
+
+.inline {
+  display: inline;
+}
