@@ -5,7 +5,6 @@
 - dodati title za gif animacije
 - dodati ngolo slike (N’golo, drawing by Neves e Sousa)
   - isprobati ngolo pokrete i skontati ih
-  - dodati bolji opis i godinu za ngolo
 - neidentifikovan bočni skok-šut (martelo de chao, meia lua pulada?) images/alex/encre_0154.jpg
 
 - loader za učitavanje iframe-a
