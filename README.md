@@ -1,7 +1,6 @@
 # Learn capoeira
 
 ## TODO
-- dodati nestora
 - dodati snimke iz capueira girl
 - https://www.youtube.com/@Capoeiraemcasa/videos
 - dodati title za gif animacije
