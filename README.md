@@ -1,12 +1,11 @@
 # Learn capoeira
 
 ## TODO
-- https://www.youtube.com/@Capoeiraemcasa/videos
-- dodati title za gif animacije
 - dodati ngolo slike (N’golo, drawing by Neves e Sousa)
   - isprobati ngolo pokrete i skontati ih
 - neidentifikovan bočni skok-šut (martelo de chao, meia lua pulada?) images/alex/encre_0154.jpg
 - Rasteira em pé je banda?
+- dodati title za gif animacije i alexa
 
 - loader za učitavanje iframe-a
 - dodati loading="lazy" na iframe
