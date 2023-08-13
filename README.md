@@ -6,6 +6,7 @@
 - dodati ngolo slike (N’golo, drawing by Neves e Sousa)
   - isprobati ngolo pokrete i skontati ih
 - neidentifikovan bočni skok-šut (martelo de chao, meia lua pulada?) images/alex/encre_0154.jpg
+- Rasteira em pé je banda?
 
 - loader za učitavanje iframe-a
 - dodati loading="lazy" na iframe
