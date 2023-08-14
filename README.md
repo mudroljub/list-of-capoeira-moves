@@ -1,13 +1,8 @@
 # Learn capoeira
 
 ## TODO
-- spojiti Tesoura de Angola i costas
-  - odvojiti leteću? http://razorwire.wz.cz/techs/tesouratorcida.htm
-- Escorpião duplo to Au kicks?
-- old tesoura http://razorwire.wz.cz/techs/thesoura.htm
 - dodati ngolo slike (N’golo, drawing by Neves e Sousa)
   - isprobati ngolo pokrete i skontati ih
-- neidentifikovan bočni skok-šut (martelo de chao, meia lua pulada?) images/alex/encre_0154.jpg
 - dodati title za gif animacije i alexa
 
 - loader za učitavanje iframe-a
