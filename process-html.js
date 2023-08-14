@@ -1,7 +1,6 @@
 const fs = require('fs');
 const path = require('path');
 const cheerio = require('cheerio');
-const prettier = require('prettier');
 
 const directoryPath = __dirname; // Current directory
 
@@ -39,22 +38,13 @@ fs.readdir(directoryPath, (err, files) => {
       // Insert the new title element into the head section
       $('head').prepend(newTitleElement);
 
-      // Prettify the HTML content using prettier
-      const formattedHtml = prettier.format($.html(), {
-        parser: 'html',
-        printWidth: 80,
-        tabWidth: 2,
-        singleQuote: true,
-        trailingComma: 'es5',
-      });
-
-      // Save the modified and formatted HTML back to the file
-      fs.writeFile(filePath, formattedHtml, 'utf8', writeErr => {
+      // Save the modified HTML back to the file
+      fs.writeFile(filePath, $.html(), 'utf8', writeErr => {
         if (writeErr) {
           console.error('Error writing file:', writeErr);
           return;
         }
-        console.log(`File '${filename}' processed and formatted successfully.`);
+        console.log(`File '${filename}' processed successfully.`);
       });
     });
   });
