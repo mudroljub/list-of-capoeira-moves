@@ -2,7 +2,6 @@
 
 ## TODO
 - nestor uputstva
-- odvojiti Beija-flor među akrobacije?
 - dodati ngolo slike (N’golo, drawing by Neves e Sousa)
   - isprobati ngolo pokrete i skontati ih
 
