@@ -215,14 +215,13 @@
       })
     }))
 
-    window.addEventListener("load", () => {
-      const pageName = window.location.hash.substring(1) || 'ginga.html'
+    const frame = document.getElementById("frame")
+    const pageName = window.location.hash.substring(1) || 'ginga.html'
 
-      document.getElementById("frame").src = pageName
-      const link = document.querySelector(`a[href='${pageName}']`)
-      link.scrollIntoView({ block: "center" })
-      link.classList.add('active')
-    })
+    frame.src = pageName
+    const link = document.querySelector(`a[href='${pageName}']`)
+    link.scrollIntoView({ block: "center" })
+    link.classList.add('active')
   </script>
 </body>
 
