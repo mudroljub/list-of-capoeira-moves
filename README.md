@@ -1,12 +1,10 @@
 # Learn capoeira
 
 ## TODO
-- dodati L and Capoeira, by Myrrha-Silvenia
-- dodati art
-- dodati ngolo slike (N’golo, drawing by Neves e Sousa)
-  - isprobati ngolo pokrete i skontati ih
 - nestor uputstva
 - odvojiti Beija-flor među akrobacije?
+- dodati ngolo slike (N’golo, drawing by Neves e Sousa)
+  - isprobati ngolo pokrete i skontati ih
 
 slobodne fotke:
 - folha seca https://www.flickr.com/photos/un_photo/4866138077
