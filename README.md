@@ -2,6 +2,9 @@
 
 ## TODO
 - dodati slike sa http://razorwire.wz.cz/
+- spojiti Tesoura de Angola i costas
+  - odvojiti leteću?
+- old tesoura http://razorwire.wz.cz/techs/thesoura.htm
 - dodati ngolo slike (N’golo, drawing by Neves e Sousa)
   - isprobati ngolo pokrete i skontati ih
 - neidentifikovan bočni skok-šut (martelo de chao, meia lua pulada?) images/alex/encre_0154.jpg
