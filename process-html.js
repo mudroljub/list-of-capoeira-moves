@@ -1,6 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const cheerio = require('cheerio');
+const prettier = require('prettier');
 
 const directoryPath = __dirname; // Current directory
 
@@ -26,22 +27,34 @@ fs.readdir(directoryPath, (err, files) => {
       // Parse HTML using Cheerio
       const $ = cheerio.load(data);
 
-      // Find the first h1 tag's value
-      const firstH1Value = $('h1:first-child').text();
+      // Find the first h1 tag's content
+      const h1Element = $('h1:first-child');
+      const h1Content = h1Element.contents().not('i').text().trim();
+      const iContent = h1Element.find('i').text().trim();
 
-      // Create a new title tag with the first h1 value
-      const newTitleTag = `<title>${firstH1Value}</title>`;
+      // Wrap i content in brackets and create a new title element
+      const titleContent = iContent ? `${h1Content} (${iContent})` : h1Content;
+      const newTitleElement = $('<title>').text(titleContent);
 
-      // Modify the HTML content
-      const modifiedHtml = newTitleTag + $.html();
+      // Insert the new title element into the head section
+      $('head').prepend(newTitleElement);
 
-      // Save the modified HTML back to the file
-      fs.writeFile(filePath, modifiedHtml, 'utf8', writeErr => {
+      // Prettify the HTML content using prettier
+      const formattedHtml = prettier.format($.html(), {
+        parser: 'html',
+        printWidth: 80,
+        tabWidth: 2,
+        singleQuote: true,
+        trailingComma: 'es5',
+      });
+
+      // Save the modified and formatted HTML back to the file
+      fs.writeFile(filePath, formattedHtml, 'utf8', writeErr => {
         if (writeErr) {
           console.error('Error writing file:', writeErr);
           return;
         }
-        console.log(`File '${filename}' processed successfully.`);
+        console.log(`File '${filename}' processed and formatted successfully.`);
       });
     });
   });
