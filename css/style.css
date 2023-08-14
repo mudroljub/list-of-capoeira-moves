@@ -62,6 +62,11 @@ nav a:hover,
   background-color: #E6DED1;
 }
 
+nav a i {
+  display: block;
+  color: brown;
+}
+
 iframe {
   flex: 1;
 }
