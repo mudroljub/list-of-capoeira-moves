@@ -8,7 +8,7 @@ body {
 h2 {
   color: #382B26;
   border-top: 2px solid brown;
-  /* background-color: #E6DED1; */
+  background-color: #E6DED1;
   text-transform: uppercase;
   font-size: 1.2em;
 }
