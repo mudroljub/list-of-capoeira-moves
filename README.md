@@ -3,6 +3,13 @@
 ## TODO
 - dodati ngolo slike (N’golo, drawing by Neves e Sousa)
   - isprobati ngolo pokrete i skontati ih
+  - png to jpg
+
+- add main navigation:
+  - home
+  - traditional songs
+  - ngolo
+  - about
 
 ## Examples
 
