@@ -7,19 +7,19 @@ body {
 
 h2 {
   color: #382B26;
-  border-top: 2px solid brown;
+  border-top: 2px solid #9F612E;
   background-color: #E6DED1;
   text-transform: uppercase;
   font-size: 1.2em;
 }
 
 h3 {
-  border-top: 2px solid brown;
-  color: crimson;
+  border-top: 2px solid #9F612E;
+  color: #E72A2E;
 }
 
 h3 i {
-  color: brown;
+  color: #9F612E;
 }
 
 aside {
@@ -65,7 +65,7 @@ nav a:hover,
 
 nav a i {
   display: block;
-  color: brown;
+  color: #9F612E;
 }
 
 iframe {
