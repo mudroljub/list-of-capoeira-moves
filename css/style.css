@@ -23,11 +23,13 @@ h3 i {
 }
 
 aside {
-  min-width: 200px;
-  max-width: 300px;
   background-color: #f1f1f1;
   max-height: 100vh;
+  max-width: 400px;
+  min-width: 160px;
   overflow-y: scroll;
+  resize: horizontal;
+  width: 280px;
 }
 
 aside h1,

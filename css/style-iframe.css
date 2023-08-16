@@ -19,6 +19,13 @@ img {
   max-width: 100%;
 }
 
+iframe,
+video {
+  margin-right: 10px;
+  margin-bottom: 10px;
+  max-width: 100%;
+}
+
 .gallery {
   display: flex;
   flex-wrap: wrap;
