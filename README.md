@@ -1,7 +1,6 @@
 # Learn capoeira
 
 ## TODO
-- png to jpg
 
 - add main navigation:
   - home
