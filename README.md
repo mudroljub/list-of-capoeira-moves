@@ -1,14 +1,12 @@
 # Learn capoeira
 
 ## TODO
-- dodati ngolo slike (N’golo, drawing by Neves e Sousa)
-  - isprobati ngolo pokrete i skontati ih
-  - png to jpg
+- png to jpg
 
 - add main navigation:
   - home
   - traditional songs
-  - ngolo
+  - ngolo https://youtu.be/e2BNDDMA7Pk
   - about
 
 ## Examples
