@@ -4,12 +4,12 @@ List of capoeira moves with pictures, their names and video tutorials.
 
 ## TODO
 
-- dodati title="Sequence by cantocapoeira.free.fr"
+- add title="Sequence by cantocapoeira.free.fr"
 - add title to video
 - add main navigation:
   - home
-  - traditional songs
   - ngolo https://youtu.be/e2BNDDMA7Pk
+  - traditional songs
   - about
 
 ## Examples
