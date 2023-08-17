@@ -15,22 +15,21 @@ document.querySelectorAll('img[title]').forEach(addTooltip)
 
 const addYoutube = container => {
   const id = container.dataset.id
-  const div = document.createElement('div')
-  div.setAttribute('data-id', id)
   const img = document.createElement('img')
   img.src = `https://img.youtube.com/vi/${id}/mqdefault.jpg`
   
-  div.appendChild(img)
+  container.appendChild(img)
   const playButton = document.createElement('div')
   playButton.setAttribute('class', 'play')
-  div.appendChild(playButton)
-  div.onclick = () => {
+  container.appendChild(playButton)
+
+  container.onclick = () => {
     const iframe = document.createElement('iframe')
-    iframe.allow = 'fullscreen'
-    iframe.src = `https://www.youtube.com/embed/${div.dataset.id}?autoplay=1`
-    div.parentNode.replaceChild(iframe, div)
+    iframe.setAttribute('allowfullscreen', '1')
+    iframe.setAttribute('allow', 'autoplay')
+    iframe.src = `https://www.youtube.com/embed/${id}?autoplay=1`
+    container.parentNode.replaceChild(iframe, container)
   }
-  container.appendChild(div)
 }
 
 document.querySelectorAll('.youtube-player').forEach(addYoutube)
