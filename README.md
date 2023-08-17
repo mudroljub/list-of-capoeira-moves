@@ -4,6 +4,7 @@ List of capoeira moves with pictures, their names and video tutorials.
 
 ## TODO
 
+- dodati title="Sequence by cantocapoeira.free.fr"
 - add main navigation:
   - home
   - traditional songs
