@@ -14,7 +14,7 @@ const addTooltip = image => {
 document.querySelectorAll('img[title]').forEach(addTooltip)
 
 const addYoutube = container => {
-  const { id } = container.dataset
+  const { id, start = 0 } = container.dataset
 
   const thumbnail = document.createElement('img')
   thumbnail.alt = thumbnail.className = 'thumbnail'
@@ -32,7 +32,7 @@ const addYoutube = container => {
     iframe.title="Capoeira tutorial"
     iframe.setAttribute('allowfullscreen', '1')
     iframe.setAttribute('allow', 'autoplay')
-    iframe.src = `https://www.youtube.com/embed/${id}?autoplay=1&loop=1&playlist=${id}`
+    iframe.src = `https://www.youtube.com/embed/${id}?autoplay=1&loop=1&playlist=${id}&start=${start}`
     container.parentNode.replaceChild(iframe, container)
   }
 }
