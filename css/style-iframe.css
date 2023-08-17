@@ -52,12 +52,6 @@ img {
 
 /* YOUTUBE IFRAME, VIDEO */
 
-iframe {
-  border: 0;
-  width: 560px;
-  height: 315px;
-}
-
 video,
 iframe,
 .youtube-player {
@@ -67,21 +61,24 @@ iframe,
   max-width: 100%;
 }
 
+iframe {
+  border: 0;
+  width: 560px;
+  height: 315px;
+}
+
 .youtube-player {
   position: relative;
 }
 
-.youtube-player img {
+.youtube-player .thumbnail {
   cursor: pointer;
   width: 560px;
 }
 
 .youtube-player .play {
-  height: 48px;
-  width: 68px;
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  background: url('../images/icons/youtube.png') no-repeat;
 }

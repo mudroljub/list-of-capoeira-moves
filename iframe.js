@@ -14,14 +14,18 @@ const addTooltip = image => {
 document.querySelectorAll('img[title]').forEach(addTooltip)
 
 const addYoutube = container => {
-  const id = container.dataset.id
-  const img = document.createElement('img')
-  img.src = `https://img.youtube.com/vi/${id}/mqdefault.jpg`
-  
-  container.appendChild(img)
-  const playButton = document.createElement('div')
-  playButton.setAttribute('class', 'play')
-  container.appendChild(playButton)
+  const { id } = container.dataset
+
+  const thumbnail = document.createElement('img')
+  thumbnail.alt = thumbnail.className = 'thumbnail'
+  thumbnail.src = `https://img.youtube.com/vi/${id}/mqdefault.jpg`
+  container.appendChild(thumbnail)
+
+  const play = document.createElement('input')
+  play.type = 'image'
+  play.alt = play.className = 'play'
+  play.src = 'images/icons/youtube.png'
+  container.appendChild(play)
 
   container.onclick = () => {
     const iframe = document.createElement('iframe')
