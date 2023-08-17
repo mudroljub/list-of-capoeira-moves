@@ -35,6 +35,26 @@
   <iframe width="560" height="315" src="https://www.youtube.com/embed/FCtq7C2_7fU?start=47" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/RqS4pDlFkH8?loop=1&playlist=RqS4pDlFkH8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+
+  <script>
+// Wrap each image with a tooltip container
+const images = document.querySelectorAll('img[title]');
+
+images.forEach(image => {
+  const tooltipContainer = document.createElement('div');
+  tooltipContainer.className = 'tooltip-container';
+  
+  const tooltip = document.createElement('span');
+  tooltip.className = 'tooltip';
+  tooltip.textContent = image.getAttribute('title');
+  
+  tooltipContainer.appendChild(image.cloneNode(true)); // Clone the image
+  tooltipContainer.appendChild(tooltip);
+  
+  image.parentNode.replaceChild(tooltipContainer, image);
+});
+
+  </script>
 </body>
 
 </html>
