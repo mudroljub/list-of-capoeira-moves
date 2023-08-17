@@ -36,22 +36,7 @@
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/RqS4pDlFkH8?loop=1&playlist=RqS4pDlFkH8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
 
-  <script>
-    const images = document.querySelectorAll('img[title]')
-
-    images.forEach(image => {
-      const container = document.createElement('div')
-      container.className = 'tooltip-container'
-      
-      const tooltip = document.createElement('span')
-      tooltip.className = 'tooltip'
-      tooltip.textContent = image.title
-      
-      container.appendChild(image.cloneNode(true)) // Clone the image
-      container.appendChild(tooltip)
-      image.parentNode.replaceChild(container, image)
-    })
-  </script>
+  <script src="iframe.js"></script>
 </body>
 
 </html>

@@ -42,7 +42,6 @@ video {
 
 .tooltip-container {
   position: relative;
-  display: inline-block; /* prevent container from taking full width */
 }
 
 .tooltip {
