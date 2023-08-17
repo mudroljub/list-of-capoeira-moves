@@ -21,13 +21,27 @@ img {
 
 iframe {
   border: 0;
+  width: 560px;
+  height: 315px;
 }
 
+.youtube-player img {
+  width: 560px;
+}
+
+video,
 iframe,
-video {
-  margin-right: 10px;
+.youtube-player {
+  display: inline-block;
   margin-bottom: 10px;
+  margin-right: 10px;
   max-width: 100%;
+}
+
+.youtube-player iframe {
+  display: block;
+  margin-bottom: 0;
+  margin-right: 0;
 }
 
 .gallery {
