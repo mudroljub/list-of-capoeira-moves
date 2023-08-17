@@ -19,6 +19,10 @@ img {
   max-width: 100%;
 }
 
+iframe {
+  border: 0;
+}
+
 iframe,
 video {
   margin-right: 10px;
