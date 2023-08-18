@@ -20,6 +20,16 @@ img {
   max-width: 100%;
 }
 
+.inline {
+  display: inline;
+}
+
+.inline-block {
+  display: inline-block;
+}
+
+/* GALLERY */
+
 .gallery {
   display: flex;
   flex-wrap: wrap;
@@ -30,13 +40,7 @@ img {
   height: 300px;
 }
 
-.inline {
-  display: inline;
-}
-
-.inline-block {
-  display: inline-block;
-}
+/* TOOLTIP */
 
 .tooltip-container {
   position: relative;
@@ -48,14 +52,15 @@ img {
   background-color: #333;
   color: #fff;
   padding: 4px 8px;
-  display: none;
+  opacity: 0;
+  transition: opacity .5s ease;
 }
 
 .tooltip-container:hover .tooltip {
-  display: block;
+  opacity: 1;
 }
 
-/* YOUTUBE IFRAME, VIDEO */
+/* VIDEOS */
 
 video,
 iframe,
