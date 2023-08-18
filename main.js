@@ -24,7 +24,7 @@ links.forEach(link => link.addEventListener("click", e => {
 
 let prevScrollPos = frame.contentWindow.pageYOffset;
 
-// wait frame content to load
+// wait frame content to load + trigger on every change
 frame.onload = () => {
   frame.contentWindow.onscroll = () => {
     const currentScrollPos = frame.contentWindow.pageYOffset;
