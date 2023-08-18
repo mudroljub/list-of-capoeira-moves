@@ -10,7 +10,7 @@
 </head>
 
 <body>
-  <header>
+  <header id="header">
     <h3>List of capoeira moves</h3>
   </header>
 
@@ -206,7 +206,17 @@
   <iframe id="frame" name="frame" title="Lean capoeira" autofocus></iframe>
 
   <script>
+    /* HANDLE NAVIGATION */
+
+    const pageName = window.location.hash.substring(1) || 'ginga.html'
     const links = document.querySelectorAll("aside a")
+    const frame = document.getElementById("frame")
+    const header = document.querySelector("header")
+    const activeLink = document.querySelector(`a[href='${pageName}']`)
+
+    frame.src = pageName
+    activeLink.scrollIntoView({ block: "center" })
+    activeLink.classList.add('active')
 
     links.forEach(link => link.addEventListener("click", e => {
       window.location.hash = e.currentTarget.getAttribute("href")
@@ -217,13 +227,18 @@
       })
     }))
 
-    const frame = document.getElementById("frame")
-    const pageName = window.location.hash.substring(1) || 'ginga.html'
+    /* HIDE HEADER */
 
-    frame.src = pageName
-    const link = document.querySelector(`a[href='${pageName}']`)
-    link.scrollIntoView({ block: "center" })
-    link.classList.add('active')
+    let prevScrollPos = frame.contentWindow.pageYOffset;
+
+    // wait frame content to load
+    window.onload = () => {
+      frame.contentWindow.onscroll = () => {
+        const currentScrollPos = frame.contentWindow.pageYOffset;
+        header.style.marginTop = prevScrollPos > currentScrollPos ? 0 : `${-header.offsetHeight}px`
+        prevScrollPos = currentScrollPos
+      }
+    }
   </script>
 </body>
 

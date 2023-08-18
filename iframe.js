@@ -1,3 +1,5 @@
+/* TOOLTIPS */
+
 const addTooltip = (el, additionalClass = '') => {
   const container = document.createElement('div')
   container.classList.add('tooltip-container', additionalClass)
@@ -13,6 +15,8 @@ const addTooltip = (el, additionalClass = '') => {
 
 document.querySelectorAll('img[title]').forEach(addTooltip)
 document.querySelectorAll('video[title], .youtube-player[title]').forEach(el => addTooltip(el, 'inline-block'))
+
+/* YOUTUBE PLAYER */
 
 const addYoutube = container => {
   const { id, start = 0 } = container.dataset
