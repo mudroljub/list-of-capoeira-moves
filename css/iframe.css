@@ -22,7 +22,7 @@ img {
 .gallery {
   display: flex;
   flex-wrap: wrap;
-  gap: 40px;
+  gap: 24px;
 }
 
 .gallery img {
@@ -60,8 +60,6 @@ video,
 iframe,
 .youtube-player {
   display: inline-block;
-  margin-bottom: 10px;
-  margin-right: 10px;
   max-width: 100%;
 }
 
@@ -78,6 +76,7 @@ iframe {
 .youtube-player .thumbnail {
   cursor: pointer;
   width: 560px;
+  object-fit: cover;
 }
 
 .youtube-player .play {

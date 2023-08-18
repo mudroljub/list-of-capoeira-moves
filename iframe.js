@@ -30,7 +30,6 @@ const addYoutube = container => {
 
   container.onclick = () => {
     const iframe = document.createElement('iframe')
-    iframe.title="Capoeira tutorial"
     iframe.setAttribute('allowfullscreen', '1')
     iframe.setAttribute('allow', 'autoplay')
     iframe.src = `https://www.youtube.com/embed/${id}?autoplay=1&loop=1&playlist=${id}&start=${start}`
