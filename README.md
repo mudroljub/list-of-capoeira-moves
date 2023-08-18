@@ -4,7 +4,6 @@ List of capoeira moves with pictures, their names and video tutorials.
 
 ## TODO
 
-- dodavati galeriju i brzi youtube redom
 - napraviti engolo stranice i navigaciju
 - add main navigation:
   - home
