@@ -4,7 +4,6 @@ List of capoeira moves with pictures, their names and video tutorials.
 
 ## TODO
 
-- boje iframe naslova
 - add main navigation:
   - home
   - ngolo https://youtu.be/e2BNDDMA7Pk
