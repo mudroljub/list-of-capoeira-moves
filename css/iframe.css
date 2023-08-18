@@ -49,6 +49,7 @@ img {
 .tooltip {
   position: absolute;
   bottom: 0;
+  left: 0;
   background-color: #333;
   color: #fff;
   padding: 4px 8px;
@@ -56,7 +57,9 @@ img {
   transition: opacity .5s ease;
 }
 
-.tooltip-container:hover .tooltip {
+.tooltip-container img:hover + .tooltip,
+.tooltip-container video:hover + .tooltip,
+.tooltip-container div:hover + .tooltip {
   opacity: 1;
 }
 
