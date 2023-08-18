@@ -4,12 +4,13 @@ List of capoeira moves with pictures, their names and video tutorials.
 
 ## TODO
 
-- add title to video
+- boje iframe naslova
 - add main navigation:
   - home
   - ngolo https://youtu.be/e2BNDDMA7Pk
   - traditional songs
   - about
+- hendlovati ako je video skinut sa youtube-a
 
 ## Examples
 
