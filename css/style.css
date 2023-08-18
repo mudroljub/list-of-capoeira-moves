@@ -1,8 +1,41 @@
 body {
-  display: flex;
-  margin: 0;
-  padding: 0;
   color: #382B26;
+  display: grid;
+  grid-template-columns: auto 1fr;
+  grid-template-rows: 1fr auto;
+  grid-template-areas:
+  "header header"
+  "aside main";
+  height: 100vh;
+  margin: 0;
+  overflow: hidden;
+  padding: 0;
+}
+
+header {
+  grid-area: header;
+  padding: 10px;
+}
+
+header h1, h2, h3 {
+  margin: 0;
+}
+
+iframe {
+  grid-area: main;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+aside {
+  background-color: #f1f1f1;
+  grid-area: aside;
+  max-width: 400px;
+  min-width: 160px;
+  overflow-y: scroll;
+  resize: horizontal;
+  width: 290px;
 }
 
 h2 {
@@ -13,23 +46,8 @@ h2 {
   font-size: 1.2em;
 }
 
-h3 {
-  border-top: 2px solid #854f22;
-  color: #E72A2E;
-}
-
 h3 i {
   color: #854f22;
-}
-
-aside {
-  background-color: #f1f1f1;
-  max-height: 100vh;
-  max-width: 400px;
-  min-width: 160px;
-  overflow-y: scroll;
-  resize: horizontal;
-  width: 290px;
 }
 
 aside h1,
@@ -38,6 +56,11 @@ aside h3 {
   padding: 8px;
   margin: 0;
   position: relative;
+}
+
+aside h3 {
+  border-top: 2px solid #854f22;
+  color: #E72A2E;
 }
 
 aside img {
@@ -68,8 +91,4 @@ nav a:hover,
 nav a i {
   display: block;
   color: #854f22;
-}
-
-iframe {
-  flex: 1;
 }
