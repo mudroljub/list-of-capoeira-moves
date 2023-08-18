@@ -29,7 +29,7 @@ const addYoutube = container => {
   const play = document.createElement('input')
   play.type = 'image'
   play.alt = play.className = 'play'
-  play.src = 'images/icons/youtube.png'
+  play.src = '../images/icons/youtube.png'
   container.appendChild(play)
 
   container.onclick = () => {
