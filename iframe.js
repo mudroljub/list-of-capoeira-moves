@@ -1,17 +1,18 @@
-const addTooltip = image => {
+const addTooltip = (el, additionalClass = '') => {
   const container = document.createElement('div')
-  container.className = 'tooltip-container'
+  container.classList.add('tooltip-container', additionalClass)
 
   const tooltip = document.createElement('span')
   tooltip.className = 'tooltip'
-  tooltip.textContent = image.title
+  tooltip.textContent = el.title
 
-  container.appendChild(image.cloneNode(true))
+  container.appendChild(el.cloneNode(true))
   container.appendChild(tooltip)
-  image.parentNode.replaceChild(container, image)
+  el.parentNode.replaceChild(container, el)
 }
 
 document.querySelectorAll('img[title]').forEach(addTooltip)
+document.querySelectorAll('video[title], .youtube-player[title]').forEach(el => addTooltip(el, 'inline-block'))
 
 const addYoutube = container => {
   const { id, start = 0 } = container.dataset

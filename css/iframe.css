@@ -33,6 +33,10 @@ img {
   display: inline;
 }
 
+.inline-block {
+  display: inline-block;
+}
+
 .tooltip-container {
   position: relative;
 }
