@@ -10,7 +10,8 @@ List of capoeira moves with pictures, their names and video tutorials.
   - capoeira-engolo-game?
 - promeniti boju aktivne gornje navigacije
 - BUG: slike u galeriji se deformišu na mobilnom
-
+- optimize icons load, create sprite
+- srediti responsive
 - hendlovati ako je neki video skinut sa youtube-a
 
 ## Descriptions
