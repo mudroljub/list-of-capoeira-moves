@@ -15,7 +15,7 @@
       <a href="index.html">List of capoeira moves</a>
       <a href="ngolo.html" class="active">List of engolo moves</a>
       <a href="">Traditional capoeira songs</a>
-      <a href="">About</a>
+      <a href="about.html" class="active">About</a>
     </nav>
   </header>
 
@@ -66,13 +66,13 @@
     </nav>
   </aside>
 
-  <iframe src="ngolo/ginga.html" id="frame" name="frame" title="Lean capoeira" autofocus></iframe>
+  <iframe src="ngolo/ginga.html" id="frame" name="frame" class="main" title="Lean capoeira" autofocus></iframe>
 
   <script>
     if (window.location.hash) 
       document.getElementById("frame").src = ''
     else 
-      window.location.hash = 'moves/ginga.html'
+      window.location.hash = 'ngolo/ginga.html'
   </script>
   <script src="main.js" async></script>
 </body>
