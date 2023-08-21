@@ -11,6 +11,7 @@ List of capoeira moves with pictures, their names and video tutorials.
   - srediti aside meni
   - dodati opise za pokrete (npr. Martelo passando e Chapa giratoria)
   - srediti da titlovi rade
+- napraviti meia-lua-de-frente-pulada za capoeira i ngolo
 - promeniti boju aktivne gornje navigacije
 - BUG: slike u galeriji se deformišu na mobilnom
 - BUG: klik na poslednje aside nav izbija header sa ekrana
