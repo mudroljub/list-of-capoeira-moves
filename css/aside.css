@@ -1,0 +1,51 @@
+aside {
+  background-color: #f1f1f1;
+  max-width: 400px;
+  min-width: 160px;
+  resize: horizontal;
+}
+
+aside h1,
+aside h2,
+aside h3 {
+  padding: 8px;
+  margin: 0;
+  position: relative;
+}
+
+aside h2 {
+  color: #492F20;
+  border-top: 2px solid #854f22;
+  background-color: #E6DED1;
+  text-transform: uppercase;
+  font-size: 1.2em;
+}
+
+aside h3 {
+  border-top: 2px solid #854f22;
+  color: #E72A2E;
+}
+
+aside i {
+  color: #854f22;
+}
+
+aside a i {
+  display: block;
+}
+
+aside img {
+  width: 32px;
+  position: absolute;
+  top: 2px;
+  right: 2px;
+  filter: opacity(0.85);
+}
+
+aside nav {
+  padding-bottom: 20px;
+}
+
+aside nav a {
+  display: block;
+}

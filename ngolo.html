@@ -6,7 +6,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>List of Engolo moves</title>
   <meta name="description" content="List of Engolo moves with pictures and videos.">
-  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/aside.css">
 </head>
 
 <body>
@@ -15,13 +16,13 @@
       <a href="index.html">List of capoeira moves</a>
       <a href="ngolo.html" class="active">List of engolo moves</a>
       <a href="">Traditional capoeira songs</a>
-      <a href="about.html" class="active">About</a>
+      <a href="about.html">About</a>
     </nav>
   </header>
 
   <aside>
     <nav>
-      <h2>Basic</h2>
+      <h2>Base</h2>
       <a href="ngolo/ginga.html" target="frame" lang="pt">Ginga <i>sway</i></a>
       <a href="ngolo/chamada.html" target="frame" lang="pt">Chamada <i>call</i></a>
 
@@ -66,15 +67,15 @@
     </nav>
   </aside>
 
-  <iframe src="ngolo/ginga.html" id="frame" name="frame" class="main" title="Lean capoeira" autofocus></iframe>
+  <iframe id="frame" name="frame" title="Lean capoeira" autofocus></iframe>
 
-  <script>
-    if (window.location.hash) 
-      document.getElementById("frame").src = ''
-    else 
-      window.location.hash = 'ngolo/ginga.html'
+  <script type="module">
+    import { handleActiveFrame, handleSideNavigation, scrollHeader } from "./main.js";
+
+    handleActiveFrame('ngolo/ginga.html')
+    handleSideNavigation() 
+    scrollHeader()
   </script>
-  <script src="main.js" async></script>
 </body>
 
 </html>

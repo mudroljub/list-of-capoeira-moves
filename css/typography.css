@@ -1,0 +1,16 @@
+h1, h2, h3 {
+  color: #66381d; /* #492F20 */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+h1 i, h2 i, h3 i {
+  color: #9E5C28;
+  font-size: smaller;
+  margin-left: 2px;
+  vertical-align: top;
+}
+
+.main {
+  padding: 0 20px;
+  font-size: 1.25em;
+}

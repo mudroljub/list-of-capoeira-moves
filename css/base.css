@@ -1,0 +1,52 @@
+body {
+  color: #382B26;
+  display: grid;
+  grid-template-columns: auto 1fr;
+  grid-template-rows: auto 1fr;
+  grid-template-areas:
+    "aside header"
+    "aside main";
+  height: 100vh;
+  margin: 0;
+  overflow: hidden;
+  padding: 0;
+}
+
+header {
+  grid-area: header;
+  overflow: auto;
+  background-color: #f1f1f1;
+  position: sticky;
+  transition: margin-top 0.3s ease-out;
+  display: flex;
+  text-transform: capitalize;
+}
+
+aside {
+  grid-area: aside;
+  height: 100%;
+  overflow-y: auto;
+  width: 290px;
+}
+
+iframe,
+.main {
+  grid-area: main;
+  width: 100%;
+  height: 100%;
+}
+
+/* NAV */
+
+nav a {
+  text-decoration: none;
+  color: inherit;
+  font-weight: bold;
+  padding: 8px 24px;
+  display: inline-block;
+}
+
+nav a:hover,
+.active {
+  background-color: #EEE8DC;
+}
