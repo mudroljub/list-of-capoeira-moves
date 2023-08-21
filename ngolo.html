@@ -66,10 +66,13 @@
     </nav>
   </aside>
 
-  <iframe id="frame" name="frame" title="Lean capoeira" autofocus></iframe>
+  <iframe src="ngolo/ginga.html" id="frame" name="frame" title="Lean capoeira" autofocus></iframe>
 
   <script>
-    if (!window.location.hash) window.location.hash = 'ngolo/ginga.html'
+    if (window.location.hash) 
+      document.getElementById("frame").src = ''
+    else 
+      window.location.hash = 'moves/ginga.html'
   </script>
   <script src="main.js" async></script>
 </body>
