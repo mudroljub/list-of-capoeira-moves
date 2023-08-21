@@ -1,15 +1,19 @@
 const header = document.querySelector("header")
 const frame = document.getElementById("frame")
 
-/* SIDE NAVIGATION */
+/* CURRENT PAGE */
 
 const pageName = window.location.hash.substring(1)
 frame.src = pageName
-const links = document.querySelectorAll("aside a")
 const activeLink = document.querySelector(`aside a[href='${pageName}']`)
+if (activeLink) {
+  activeLink.scrollIntoView({ block: "center" })
+  activeLink.classList.add('active')  
+}
 
-activeLink.scrollIntoView({ block: "center" })
-activeLink.classList.add('active')
+/* SIDE NAVIGATION */
+
+const links = document.querySelectorAll("aside a")
 
 links.forEach(link => link.addEventListener("click", e => {
   window.location.hash = e.currentTarget.getAttribute("href")
