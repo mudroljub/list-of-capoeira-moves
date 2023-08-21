@@ -22,7 +22,7 @@ aside h2 {
 }
 
 aside h3 {
-  border-top: 2px solid #854f22;
+  /* border-top: 2px solid #854f22; */
   color: brown;
   font-size: 1.2em;
 }
