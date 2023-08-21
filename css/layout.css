@@ -36,6 +36,10 @@ iframe,
   height: 100%;
 }
 
+.main {
+  padding: 10px 20px;
+}
+
 /* NAV */
 
 nav a {
