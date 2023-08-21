@@ -5,14 +5,10 @@ List of capoeira moves with pictures, their names and video tutorials.
 ## TODO
 
 - dodati ngolo videe (film https://youtu.be/e2BNDDMA7Pk)
-  - proveriti nazive klipova (odgledati)
-    - naći gde ngolo obara saigrača za rasteira
-  - dodavati u odgovarajuće strane (negde u dve, za šut i odbranu)
-  - napraviti nove strane (queixada, chapa giratoria?)
+  - napraviti meia-lua-de-frente-pulada za capoeira i ngolo
   - srediti aside meni
   - dodati opise za pokrete (npr. Martelo passando e Chapa giratoria)
   - srediti da titlovi rade
-- napraviti meia-lua-de-frente-pulada za capoeira i ngolo
 - promeniti boju aktivne gornje navigacije
 - BUG: slike u galeriji se deformišu na mobilnom
 - BUG: klik na poslednje aside nav izbija header sa ekrana
