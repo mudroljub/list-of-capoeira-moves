@@ -13,6 +13,7 @@ List of capoeira moves with pictures, their names and video tutorials.
 - optimize icons load, create sprite
 - srediti responsive
 - hendlovati ako je neki video skinut sa youtube-a
+- chamada https://youtu.be/bdBgQ9E_iGg ?
 
 ## Descriptions
 
