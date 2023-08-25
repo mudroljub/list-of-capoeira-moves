@@ -3,11 +3,11 @@ const frame = document.getElementById("frame")
 
 /* SIDE NAVIGATION */
 
-const pageName = window.location.hash.substring(1) || 'moves/ginga.html'
+const pageName = window.location.hash.substring(1)
+frame.src = pageName
 const links = document.querySelectorAll("aside a")
 const activeLink = document.querySelector(`aside a[href='${pageName}']`)
 
-frame.src = pageName
 activeLink.scrollIntoView({ block: "center" })
 activeLink.classList.add('active')
 
@@ -20,7 +20,7 @@ links.forEach(link => link.addEventListener("click", e => {
   })
 }))
 
-/* HIDE HEADER */
+/* SCROLL HEADER */
 
 let prevScrollPos = frame.contentWindow.pageYOffset;
 
