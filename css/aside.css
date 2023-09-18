@@ -1,9 +1,14 @@
 @import url(typography.css);
 
 aside {
-  max-width: 400px;
-  min-width: 160px;
+  width: 160px;
   resize: horizontal;
+}
+
+@media screen and (min-width: 800px) {
+  aside {
+    width: unset;
+  }
 }
 
 aside h1,

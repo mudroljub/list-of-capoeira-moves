@@ -4,8 +4,7 @@ List of capoeira moves with pictures, their names and video tutorials.
 
 ## TODO
 
-- optimize icons load, create sprite
-- srediti responsive
+- srediti responsive (aside manji na mobilnom)
 - hendlovati ako je neki video skinut sa youtube-a
 - chamada https://youtu.be/bdBgQ9E_iGg ?
 - izlazak iz tezure https://youtu.be/tSXiPiv7S70?feature=shared&t=159
