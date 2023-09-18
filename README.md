@@ -5,11 +5,12 @@ List of capoeira moves with pictures, their names and video tutorials.
 ## TODO
 
 - ngolo
-  - spojiti slike
-  - ažurirati obojeno gde ima
   - dodati opise za pokrete (npr. Martelo passando e Chapa giratoria)
+  - ažurirati obojeno gde ima
   - srediti da titlovi rade
   - capoeira-engolo-game?
+  - identifikovati ngolo/low-defense.jpg
+- au moves i kicks?
 - promeniti boju aktivne gornje navigacije
 - BUG: slike u galeriji se deformišu na mobilnom
 - optimize icons load, create sprite
