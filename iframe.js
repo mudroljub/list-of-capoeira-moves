@@ -14,7 +14,7 @@ const addTooltip = (el, additionalClass = '') => {
 }
 
 document.querySelectorAll('img[title]').forEach(addTooltip)
-document.querySelectorAll('.youtube-player[title]').forEach(el => addTooltip(el, 'inline-block'))
+document.querySelectorAll('.youtube-player[title], video[title]').forEach(el => addTooltip(el, 'inline-block'))
 // video[title] creates bug?
 
 /* YOUTUBE PLAYER */
