@@ -34,9 +34,7 @@ aside h3 {
 
 aside img {
   width: 32px;
-  position: absolute;
-  top: 2px;
-  right: 2px;
+  float: right;
   filter: opacity(0.85);
 }
 
