@@ -4,4 +4,4 @@ List of capoeira moves with pictures, their names and video tutorials.
 
 ## TODO
 
-- slike iz download
+- naći burlamaki knjigu
