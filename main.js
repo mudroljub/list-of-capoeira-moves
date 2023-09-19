@@ -9,7 +9,10 @@ if (!window.location.hash) window.location.hash = window.location.pathname.inclu
 const pageName = window.location.hash.substring(1)
 frame.src = pageName
 const activeLink = document.querySelector(`aside a[href='${pageName}']`)
-if (activeLink) activeLink.classList.add('active')  
+if (activeLink) {
+  activeLink.scrollIntoView({ block: "center" })
+  activeLink.classList.add('active')  
+}
 
 /* ASIDE */
 
