@@ -1,6 +1,6 @@
 # List of capoeira moves
 
-List of capoeira moves with pictures, their names and video tutorials.
+List of capoeira moves with pictures, names and video tutorials.
 
 ## TODO
 
