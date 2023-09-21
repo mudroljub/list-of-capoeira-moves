@@ -4,7 +4,6 @@ List of capoeira moves with pictures, names and video tutorials.
 
 ## TODO
 
-- dodati neke crteže iz download
 - upload pantana i ostale njegove na wiki http://razorwire.wz.cz/techs/pantana.htm
   - pantana je Raul Pederneiras “O Nosso Jogo”, 1926. (dodati title gde treba)
 - Bimba slike https://decapoeira.org/curso-de-capoeira-regional-por-mestre-bimba/
