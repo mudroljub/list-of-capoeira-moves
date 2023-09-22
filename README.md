@@ -4,30 +4,12 @@ List of capoeira moves with pictures, names and video tutorials.
 
 ## TODO
 
-- upload pantana i ostale njegove na wiki http://razorwire.wz.cz/techs/pantana.htm
-  - pantana je Raul Pederneiras “O Nosso Jogo”, 1926. (dodati title gde treba)
+- probati ai na neke zumine slike za sajt
 - Bimba slike https://decapoeira.org/curso-de-capoeira-regional-por-mestre-bimba/
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7673407/ The Blows and Capoeira Movements From the Caricatures of Calixto Cordeiro
+- razdvojiti Bênção od Chapa de frente
 
 <ref name="Damião">[https://cppa.com.br/attachments/File/Artigos/LUTA_REGIONAL_BAHIANA_DO_MESTRE_BIMBA.pdf Mestre Damião, A verdadeira história da criação da Luta Regional Bahiana do mestre Bimba]</ref>
-
-RABO DE ARRAIA (Stingray Tail):
-
-This move is one of the most dangerous, both for the player who executes it and for the one who receives it. However, when executed properly, it can have fatal consequences for the opponent. The capoeirista performs the "rabode arraia" by placing the palms of their hands on the ground and seemingly performing a somersault, making the soles of their feet push the opponent's chest, face, or another chosen area. The result is always that the opponent falls backward.
-
-There are various ways to execute the "rabode arraia." To perform it accurately, one must have some knowledge (at least) of jumps because this move depends on the jump and agility.
-
-
-(I) With both legs in front. The player, "peneirando" (sifting), threatens quickly and, by rapidly supporting both hands on the ground, strikes with both feet to the opponent's face or chest. It was with this move that our Cyriaco defeated the Japanese in jiu-jitsu, and thus we gained supremacy in the game.
-
-(II) With one leg to the side. This is a beautiful blow due to its style, because it depends only on intelligence.
-
-First, the opponent is given one of the feet (right or left); it's called a tapiação (tapping) coup. After they grabbing it, the capoeirista rotates in a way that the hands firmly plant on the ground, and the other foot strikes the opponent horribly in the face or ears. This move is almost always effective and has good consequences.
-
-
-In regional:
-Begin by ginga-ing. Place both hands on the ground, raise one leg fully extended, rotate your body completely, trying to reach the opponent's head with your foot. The opponent defends themselves with the "queda-de-cocorinha" (cocorinha fall).
-
 
 The "CABEÇADA" (Headbutt):
 
