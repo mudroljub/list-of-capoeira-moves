@@ -7,7 +7,8 @@ List of capoeira moves with pictures, names and video tutorials.
 - probati ai na neke zumine slike za sajt
 - Bimba slike https://decapoeira.org/curso-de-capoeira-regional-por-mestre-bimba/
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7673407/ The Blows and Capoeira Movements From the Caricatures of Calixto Cordeiro
-- razdvojiti Bênção od Chapa de frente
+- razdvojiti Bênção od Chapa de frente na wiki?
+- tražiti capoeira umetnost na deviant art
 
 <ref name="Damião">[https://cppa.com.br/attachments/File/Artigos/LUTA_REGIONAL_BAHIANA_DO_MESTRE_BIMBA.pdf Mestre Damião, A verdadeira história da criação da Luta Regional Bahiana do mestre Bimba]</ref>
 
