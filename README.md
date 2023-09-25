@@ -1,75 +1,20 @@
-# List of capoeira moves
+  # List of capoeira moves
 
 List of capoeira moves with pictures, names and video tutorials.
 
 ## TODO
 
-- probati ai na neke zumine slike za sajt
-- Bimba slike https://decapoeira.org/curso-de-capoeira-regional-por-mestre-bimba/
+- BUG: od video title zaklanja komande
+- prevesti zuma escorao i još neke
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7673407/ The Blows and Capoeira Movements From the Caricatures of Calixto Cordeiro
 - razdvojiti Bênção od Chapa de frente na wiki?
+- odvojiti Banda de frente i Rasteira em pé?
 - tražiti capoeira umetnost na deviant art
+- ne rade ikonice
+- gugl mi indeksira iframe stranice, dodati home dugme na njih
 
-<ref name="Damião">[https://cppa.com.br/attachments/File/Artigos/LUTA_REGIONAL_BAHIANA_DO_MESTRE_BIMBA.pdf Mestre Damião, A verdadeira história da criação da Luta Regional Bahiana do mestre Bimba]</ref>
+Obi, T. J. D. (2012). Thejogo de capoeiraand the fallacy of “creole” cultural forms. African and Black Diaspora: An International Journal, 5(2), 211–228. doi:10.1080/17528631.2012.695222 
+- https://sci-hub.ru/10.1080/17528631.2012.695222
 
-The "CABEÇADA" (Headbutt):
-
-The headbutt is given quite simply. By approaching the opponent and suddenly lowering oneself, one makes the head strike either the underside of the jaw, the chest, the stomach, or even the face. This move is a second "rabo de arraia" in terms of its consequences because, when executed well, it is exceedingly terrifying for the recipient.
-
-In regional:
-The "CABEÇADA" (Headbutt):
-
-This move is a true "headbutt" delivered with a very powerful impulse to the middle of the face or the chest of the individual. Its application requires a lot of cunning. The move in question has existed since the primitive Capoeira (Angola).
-
-
-The "THESOURA" (Scissors):
-
-It is executed (the one who is going to perform the scissors either lies down on the ground with their belly up or down), simultaneously crossing their legs with those of the opponent. Then, by turning them violently, they make the opponent fall to the left or right side.
-
-In regional:
-The "TESOURA" (Scissors):
-
-The scissors has existed since the time when Master Bimba practiced Capoeira Angola. With the creation of Capoeira Regional, he introduced the open scissors (from behind) and later the front and side scissors. Note that none of the legs of the person applying the move are inserted between the opponent's legs.
-
-
-"SUICÍDIO" (Suicide):
-
-One advances while "peneirando," and rapidly lowers the body, causing the feet, curved and close to the ground, to slip between the opponent's feet. With a sudden push of the legs, the opponent is made to fall onto the attacker, and even faster, one leg is bent in a way that the knee comes between the two who are fighting.
-
-(This move is original and terrifying, as if the opponent is armed with a dagger or knife, they will inevitably harm themselves.)
-
-(Perhaps it is unwise to describe it.)
-
-Bimba
-"SUICÍDIO" (Suicide):
-
-The suicide is a move that was only taught in the Specialization Course. When knocking down an individual, one jumps with maximum force, using both feet to land on top of them, aiming to hit the chest, abdomen, or groin. It is an extremely violent and malicious move.
-
-
-The "QUEIXADA" (Jaw):
-
-One takes a step in front of the opponent and, always calculating the distance, swiftly raises one leg (right or left), causing the foot (right or left) to strike the opponent's jaw.
-
-Bimba
-"QUEIXADA" (Jaw):
-"COCORINHA FALL" (DEFENSE)
-
-This move consists of a circular lift of the leg, from the inside to the outside (see dotted line), aiming to hit someone's chin squarely with the foot. It's essentially a strike with the outer side of the foot.
-
-
-Bimba introduced moves from other fights, such as boxing, jiu-jitsu, Greco-Roman wrestling and Afro-Brazilian batuque.
-
-
-The "GUARDA" (Guard):
-
-The first position in capoeira is the guard. The guard is distinctive, it is essential, and it is indispensable in its entirety for the practice of the much pursued and highly useful gymnastics.
-
-It is with this martial attitude that the learning of capoeira begins:
-Prepare! Attention! On guard!
-The body is brought upright in a natural posture, in a noble and erect attitude, turning slightly to the right or left. The leg is drawn to the rear. While maintaining the line, the knees are bent, causing the front leg to naturally lower, with the torso firmly positioned over the rear leg, resting all the body's weight on the leg behind. The chest is prominently pushed forward toward the opponent, as if wanting to push them backward. The fingers are slightly bent and separated from each other. The teeth are clenched. The head is well squared over the shoulders. The eyes are fixed on those of the opponent. Raise the heels at the moment of action, supporting the body's weight on the balls of the feet.
-
-This is the guard. In its entirety, it is the first noble and loyal position of the queen of national gymnastics, with which, armed and defended by a perfect and good understanding, we can confront the demons.
-
-"O PENTEAR OU PENEIRAR" (Combing or Sifting)
-
-One moves the arms and the body in all directions during the ginga, in order to disturb the opponent's attention and better prepare for the decisive strike.
+González Varela, S. (2017). The Religious Foundations of Capoeira Angola: The Cosmopolitics of an Apparently Non-religious Practice. Religion and Society, 8(1). doi:10.3167/arrs.2017.080105 
+https://sci-hub.ru/10.3167/arrs.2017.080105
