@@ -4,7 +4,6 @@ List of capoeira moves with pictures, names and video tutorials.
 
 ## TODO
 
-- BUG: od video title zaklanja komande
 - prevesti zuma escorao i još neke
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7673407/ The Blows and Capoeira Movements From the Caricatures of Calixto Cordeiro
 - razdvojiti Bênção od Chapa de frente na wiki?
