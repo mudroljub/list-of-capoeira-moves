@@ -1,3 +1,11 @@
+if (!window.frameElement) {
+  const homeLink = document.createElement('a')
+  homeLink.href = '/'
+  homeLink.textContent = 'Home'
+  const { body } = document
+  body.insertBefore(homeLink, body.firstChild)
+}
+
 /* TOOLTIPS */
 
 const addTooltip = (el, additionalClass = '') => {
