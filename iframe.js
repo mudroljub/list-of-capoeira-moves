@@ -1,4 +1,4 @@
-if (!window.frameElement) {
+if ((location.pathname.includes('index') || location.pathname.includes('ngolo')) && !window.frameElement) {
   const homeLink = document.createElement('a')
   homeLink.href = '/'
   homeLink.textContent = 'Home'
