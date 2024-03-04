@@ -5,7 +5,10 @@ List of capoeira moves with pictures, names and video tutorials.
 ## TODO
 
 - add songs (regular way)
-  - https://soundcloud.com/saciperereuk/sets/mestre-pastinha-eternamente
+  https://soundcloud.com/saciperereuk/sets/mestre-pastinha-eternamente
+  https://soundcloud.com/curingacapoeira/sets/mestre-waldemar-capoeira
+  abalou
+  zum zum zum
 - add break dance
 
 # Breakdance
