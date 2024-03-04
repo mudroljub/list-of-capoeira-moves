@@ -9,6 +9,7 @@ List of capoeira moves with pictures, names and video tutorials.
   https://soundcloud.com/curingacapoeira/sets/mestre-waldemar-capoeira
   abalou
   zum zum zum
+  - prevesti nazive na eng
 - add break dance
 
 # Breakdance
