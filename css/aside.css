@@ -7,7 +7,7 @@ aside {
 
 @media screen and (min-width: 800px) {
   aside {
-    width: unset;
+    width: 280px;
   }
 }
 
