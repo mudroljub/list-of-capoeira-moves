@@ -6,8 +6,8 @@ List of capoeira moves with pictures, names and video tutorials.
 
 - add songs (regular way)
   https://soundcloud.com/saciperereuk/sets/mestre-pastinha-eternamente
+  Gunga é meu
   https://soundcloud.com/curingacapoeira/sets/mestre-waldemar-capoeira
-  abalou
   zum zum zum
   - prevesti nazive na eng
 
