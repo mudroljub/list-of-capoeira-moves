@@ -12,7 +12,7 @@ List of capoeira moves with pictures, names and video tutorials.
   - prevesti nazive na eng
 
 Paraná ê
-O sim, sim, sim
+Ô sim, sim, sim
 Vou dizer a meu senhor
 (A manteiga derramou)
 Dona Maria do Camboatá
