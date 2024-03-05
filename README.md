@@ -13,8 +13,6 @@ List of capoeira moves with pictures, names and video tutorials.
 ## Toprock
 - Basic Toprock
   - https://youtu.be/hr8yOyc0rCM?si=K4AU25jXPCTENXof
-- Power Step (6 Step Toprock)
-  - https://youtu.be/t_Ra5SuZM-o?feature=shared
 
 ## Footwork
 - 2 step
