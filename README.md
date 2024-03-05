@@ -6,32 +6,8 @@ List of capoeira moves with pictures, names and video tutorials.
 
 - add songs (regular way)
   https://soundcloud.com/saciperereuk/sets/mestre-pastinha-eternamente
-  Gunga é meu
-  https://soundcloud.com/curingacapoeira/sets/mestre-waldemar-capoeira
   zum zum zum
   - prevesti nazive na eng
-
-Paraná ê
-Ô sim, sim, sim
-Vou dizer a meu senhor
-(A manteiga derramou)
-Dona Maria do Camboatá
-Sai, sai Catarina
-Ê Paraná
-Chama eu
-Avisa meu mano
-
-Here are the translations of the titles of the Capoeira songs:
-1. Paraná and
-2. Oh yes, yes, yes
-3. I'm going to tell my master
-4. (The butter spilled)
-5. Lady Maria of Camboatá
-6. Go away, go away Catarina
-7. And Paraná
-8. Call me
-9. Let my brother know
-
 - add break dance
 
 # Breakdance
