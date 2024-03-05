@@ -4,11 +4,9 @@ List of capoeira moves with pictures, names and video tutorials.
 
 ## TODO
 
-- add songs (regular way)
-  https://soundcloud.com/saciperereuk/sets/mestre-pastinha-eternamente
-  zum zum zum
-  - prevesti nazive na eng
-- add break dance
+- prevesti nazive pesama na eng
+- break dance moves
+  https://citydance.org/breakdance-moves-with-names-pictures/
 
 # Breakdance
 
