@@ -10,43 +10,6 @@ List of capoeira moves with pictures, names and video tutorials.
 
 # Breakdance
 
-## Drops
-- 360 Kick Drop (šut iz okreta)
-  - https://youtu.be/8GPFt9e8i9c?feature=shared
-
-## Power Moves
-- Flare (corta capim visoki)
-  - https://youtu.be/QQzuq9hQPt8?si=tV4-Tc-IiJj6MKBP
-  - https://youtu.be/2fFBaFV9Ugk?si=OGA3m9plzbddh0fN
-  - https://youtu.be/ji8yn2tAc08?si=Skb1DcU3s5GEmJwi
-- Virgin flare (corta capim both legs)
-  - https://youtu.be/gK7H0rtzyzQ?si=DUMOOIJIcwZsFx4W
-  - https://youtu.be/gK7H0rtzyzQ?si=DIDNS1csDWjoFrAU
-- Swipes (martelo do chao or role)
-  - https://youtu.be/51UXzOo61Zs?si=daoWg76c3WMUv6nD
-  - https://youtu.be/aASe4-EZ_U4?si=kSWOAuIyfSEeBzPV
-  - https://youtu.be/7IE6A0UKEjI?si=iBvUnDXibqbAUucC
-  - https://youtu.be/8k7nxJFeBxY?si=WuwoNSQn7oI03yGt
-  - https://youtu.be/14WfVM98qGA?si=diIhAJNYqrN6oV0l
-- Power Swipe (cartwheel kick)
-  - https://youtu.be/9aMFGNe9zvM?si=XIIT83p1szfhqbOq
-- Windmill (helicoptero on ground)
-  - https://youtu.be/N_zqyQjnGYo?si=LczxsvqlPHEhLnzC
-  - https://youtu.be/6OAMqno_EKg?si=H10i7ZAaTDYoTpDL
-  - https://youtu.be/859MPH87kZA?si=M6Q1opggzDtr1lVd
-- Head Spin (pião de cabeça)
-  - https://youtu.be/Iwg79s2lVKs?si=nHkMPqZl1YuOIztN
-  - https://youtu.be/EMfZVZm3RQQ?si=sUzAPWCFGn9Ksh0_
-- Hand Glide (relogio)
-  - https://youtu.be/WnYqWQ005Tc?si=7qJxUR2WHVlCiqCa
-- Reverse Handglide (relogio)
-  - https://youtu.be/9F6fUo2m1fI?si=7LhLWDkHdI1PkU3T
-- 1990 / Hand Spin (au giratoria)
-  - https://youtu.be/9K474TJp5mc?si=fNKbPFnRrzYNCQHk
-  - https://youtu.be/lnolGZwLZ7s?si=8SFUj-sqwpWI_9Uy
-- Handhop (au batido)
-  - https://youtu.be/HcWhwhf_c-c?si=ZZSuSjV0Va7lOmGG
-
 ## Freeze
 - Baby Freeze (queda de rins)
   - https://youtu.be/-yZMIgeJ3XU?si=zADLM1ZTpmMUr0WS
